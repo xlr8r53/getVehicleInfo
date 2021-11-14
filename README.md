@@ -1,0 +1,2 @@
+# getVehicleInfo
+As part of this project, we intend to create an application with a trained deep learning CNN model using the RTO API. We create a model that can recognize characters on the car's license plate from an image. We then extract the characters and numbers from it, after which we use RTO APIs to get the owner's information. Finally, we develop a Flask Web application to display all this information.
