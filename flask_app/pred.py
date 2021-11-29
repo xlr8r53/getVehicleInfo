@@ -7,7 +7,7 @@ from tensorflow.keras import models
 import json
 
 # detecting license plate on the vehicle
-plateCascade = cv2.CascadeClassifier('indian_license_plate.xml')
+plateCascade = cv2.CascadeClassifier('../indian_license_plate.xml')
 
 
 def plate_detect(img):
