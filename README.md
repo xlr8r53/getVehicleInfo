@@ -14,7 +14,7 @@ The end users of this project might be:
 •	Security Management of a closed space gateway
 •	General public and many more
 
-# Team: 8
+## Team: 8
 
 Karthik Yanagandula(kyb8k@umsystem.edu)
 
